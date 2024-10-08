@@ -16,7 +16,7 @@ In the project directory, you can run:
 
 All packages are already installed and integrated so that you can directly import and use the components of the **DB UX Design System**.
 
-Simply use the `App.tsx` as a starting point.
+Simply use the `src/app/app.component.html` as a starting point.
 
 
 ## Have fun ❤️
