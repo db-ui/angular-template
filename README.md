@@ -10,7 +10,7 @@ First you have to install all node packages:
 
 In the project directory, you can run:
 
-`npm run starty`
+`npm run start`
 
 ## Develop
 
